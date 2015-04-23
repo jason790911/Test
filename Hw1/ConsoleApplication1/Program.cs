@@ -20,6 +20,8 @@ namespace ConsoleApplication1
                 int age = 0, creditsRequired = 128;
                 string firstName, lastName, addressLine1, addressLine2, city, state, country, zip, fieldOfProfessor = "Arts";
                 string degreeName = "Computer Science Engineering";
+                string departmentHead = "Richard Lin";
+                string[] course = { "Android", "C#", "C++", "Java", "Python" ,"Algorithm","Database"};
                 DateTime birthDate;
                 Console.WriteLine("---Please Input your data on the following fields---");
                 Console.Write("First name:");
@@ -63,8 +65,12 @@ namespace ConsoleApplication1
                 Console.WriteLine("Field of Professor: " + fieldOfProfessor);
                 Console.WriteLine("Address: " + addressLine1 + "," + addressLine2 + "," + city + "," + state + "," + country);
                 Console.WriteLine("Zip: " + zip);
-                Console.WriteLine("\nPress any key to continue...");
-                Console.ReadLine();
+                Console.WriteLine("-----Course Information-----");
+                for (int i = 0; i < course.Length; ++i)
+                {
+                    Console.WriteLine((i + 1) +". " +course[i]);
+                }
+                Console.WriteLine("\t\t\tSincerely, " + departmentHead);
                 ++once;
             }
         }

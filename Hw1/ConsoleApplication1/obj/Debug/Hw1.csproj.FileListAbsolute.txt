@@ -7,6 +7,3 @@ C:\Users\wolfwang\Documents\Visual Studio 2012\Projects\Hw1\ConsoleApplication1\
 C:\Users\wolfwang\Documents\Visual Studio 2012\Projects\Hw1\ConsoleApplication1\obj\Debug\Hw1.csprojResolveAssemblyReference.cache
 C:\Users\wolfwang\Documents\Visual Studio 2012\Projects\Hw1\ConsoleApplication1\obj\Debug\Hw1.exe
 C:\Users\wolfwang\Documents\Visual Studio 2012\Projects\Hw1\ConsoleApplication1\obj\Debug\Hw1.pdb
-D:\Git\Hw1\ConsoleApplication1\bin\Debug\Hw1.exe.config
-D:\Git\Hw1\ConsoleApplication1\obj\Debug\Hw1.exe
-D:\Git\Hw1\ConsoleApplication1\obj\Debug\Hw1.pdb
