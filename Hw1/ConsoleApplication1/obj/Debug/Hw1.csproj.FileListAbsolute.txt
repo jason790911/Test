@@ -1,0 +1,12 @@
+c:\users\wolfwang\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\wolfwang\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\wolfwang\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\wolfwang\Documents\Visual Studio 2012\Projects\Hw1\ConsoleApplication1\bin\Debug\Hw1.exe.config
+C:\Users\wolfwang\Documents\Visual Studio 2012\Projects\Hw1\ConsoleApplication1\bin\Debug\Hw1.exe
+C:\Users\wolfwang\Documents\Visual Studio 2012\Projects\Hw1\ConsoleApplication1\bin\Debug\Hw1.pdb
+C:\Users\wolfwang\Documents\Visual Studio 2012\Projects\Hw1\ConsoleApplication1\obj\Debug\Hw1.csprojResolveAssemblyReference.cache
+C:\Users\wolfwang\Documents\Visual Studio 2012\Projects\Hw1\ConsoleApplication1\obj\Debug\Hw1.exe
+C:\Users\wolfwang\Documents\Visual Studio 2012\Projects\Hw1\ConsoleApplication1\obj\Debug\Hw1.pdb
+D:\Git\Hw1\ConsoleApplication1\bin\Debug\Hw1.exe.config
+D:\Git\Hw1\ConsoleApplication1\obj\Debug\Hw1.exe
+D:\Git\Hw1\ConsoleApplication1\obj\Debug\Hw1.pdb
