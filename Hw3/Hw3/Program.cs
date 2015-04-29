@@ -21,7 +21,13 @@ namespace Hw3
             string lastName = Console.ReadLine();
             Console.WriteLine("Enter the student's birthday");
             string birthday = Console.ReadLine();
+            try {
+                validDate(birthday);
+            }catch(NotImplementedException e){
+                Console.WriteLine("Method \"validDate\" Is Not Implemented");
+            }
             PrintStudentDetails(firstName, lastName, birthday);
+
         }
         static void PrintStudentDetails(string first, string last, string birthday)
         {
@@ -36,6 +42,9 @@ namespace Hw3
         }
         static void PrintStudentDetails(string Name,string field) {
             Console.WriteLine("Prof. {1} is good at {0}",field,Name);
+        }
+        static bool validDate(string birthday) {
+            throw new NotImplementedException();
         }
     }
 }
