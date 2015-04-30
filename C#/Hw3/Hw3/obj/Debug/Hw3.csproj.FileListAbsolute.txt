@@ -4,3 +4,6 @@ D:\Git\Hw3\Hw3\bin\Debug\Hw3.pdb
 D:\Git\Hw3\Hw3\obj\Debug\Hw3.csprojResolveAssemblyReference.cache
 D:\Git\Hw3\Hw3\obj\Debug\Hw3.exe
 D:\Git\Hw3\Hw3\obj\Debug\Hw3.pdb
+D:\Git\C#\Hw3\Hw3\bin\Debug\Hw3.exe.config
+D:\Git\C#\Hw3\Hw3\obj\Debug\Hw3.exe
+D:\Git\C#\Hw3\Hw3\obj\Debug\Hw3.pdb

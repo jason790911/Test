@@ -1,0 +1,6 @@
+D:\Git\Hw3-C\Hw3-C\bin\Debug\Hw3-C.exe.config
+D:\Git\Hw3-C\Hw3-C\bin\Debug\Hw3-C.exe
+D:\Git\Hw3-C\Hw3-C\bin\Debug\Hw3-C.pdb
+D:\Git\Hw3-C\Hw3-C\obj\Debug\Hw3-C.csprojResolveAssemblyReference.cache
+D:\Git\Hw3-C\Hw3-C\obj\Debug\Hw3-C.exe
+D:\Git\Hw3-C\Hw3-C\obj\Debug\Hw3-C.pdb
